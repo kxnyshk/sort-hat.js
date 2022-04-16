@@ -2,7 +2,7 @@
 An online JavaScript sorting application, made to calculate the time taken for an ascending sort over a randomly generated dataset with an user specified range.
 
 ## Sorting used
- - Chrome: JavaScript V8 Chromium engine uses [TimSort](https://v8.dev/blog/array-sort) as of Sept' 2018 for sorting contigous numeric arrays with `Arrays.sort()`
+ - Chrome: JavaScript V8 Chromium engine uses [TimSort](https://v8.dev/blog/array-sort) as of Sept' 2018 for sorting contiguous numeric arrays with `Arrays.sort()`
  - Mozilla: Mozilla Firefox uses [MergeSort](https://bugzilla.mozilla.org/show_bug.cgi?id=224128) with JavaScript's `Arrays.sort()`
 
 ## Time calculation
