@@ -10,7 +10,7 @@ An online JavaScript sorting application, made to calculate the time taken for a
 
 ## Hosting
  - The application has been hosted via [app.Netlify](https://netlify.app/)
- - Host [link](sortdotjs.netlify.app)
+ - Host [link](https://sortdotjs.netlify.app)
 
 ## Further readings
  - [Javascript Array.sort() implementation | StackOverflow](https://stackoverflow.com/questions/234683/javascript-array-sort-implementation)
