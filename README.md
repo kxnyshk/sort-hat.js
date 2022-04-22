@@ -9,7 +9,7 @@ An online JavaScript sorting application, made to calculate the time taken for a
  - Sorting time has been calculated with the help of JavaScript's [`performance.now()`](https://developer.mozilla.org/en-US/docs/Web/API/Performance/now)
 
 ## Hosting
- - The application has been hosted via [app.Netlify](https://netlify.app/)
+ - The application has been hosted via [Netlify.app](https://netlify.app/)
  - Host [link](https://sortdotjs.netlify.app)
 
 ## Further readings
